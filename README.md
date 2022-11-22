@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **ad1tya-v3rma/ad1tya-v3rma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+  <img src="https://github.com/Manish-Kumar-Vats/Manish-Kumar-Vats/blob/main/images/cover4.gif" height="240"/>
+</p>
