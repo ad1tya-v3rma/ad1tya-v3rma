@@ -19,5 +19,12 @@ Here are some ideas to get you started:
 
 [![@ad1tyav3rma's Holopin board](https://holopin.me/ad1tyav3rma)](https://holopin.io/@ad1tyav3rma)
 <div align = "center">
+  <div>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ad1tya-v3rma&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
+  </div>
+  <div>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,angular,js,maven,spring,typescript,jenkins,git,arduino,linux,mysql,mongodb" />
+  </a>
+  </div>
 </div>
